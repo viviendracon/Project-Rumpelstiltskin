@@ -1,2 +1,4 @@
-# Project-Rumpelstiltskin
-America's Speed Run to REE Independence
+# Project Rumpelstiltskin
+America's 5 Year Speed Run to REE Independence
+
+"Project Rumpelstiltskin," is a U.S. national security initiative proposed in response to China's 2025 rare earth element (REE) export ban. Inspired by historical efforts like the Manhattan and Apollo Projects, the plan details a 60-month roadmap to establish a complete domestic REE supply chain, from mining through magnet production. A key component is the proposed Nevada Integrated REE Hub, which would centralize these operations, leveraging existing infrastructure and resources. The strategy involves using executive authority, public-private partnerships, and accelerated timelines, including expedited environmental reviews and DPA utilization, to secure America's technological and defense independence in this critical area. The plan presents detailed technical, economic, legal, and environmental aspects, along with a draft Executive Order to implement the project.
